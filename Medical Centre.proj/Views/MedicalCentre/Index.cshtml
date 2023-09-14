@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_defaultlayout.cshtml";
+}
+
+
+<html lang="en">
+<head>
+   
+  
+</head>
+<body>
+    <div class="banner">
+        <div class="navbar">
+            <p class="logo">DUSMC</p>
+            <ul>
+                <li>About Us</li>
+                <li>Why Choose Us</li>
+                <li>Contact Us</li>
+            </ul>
+        </div>
+        <div class="content">
+
+            <h1>Durban UniStudent Medical Centre</h1>
+            <p>
+                Making it easy for university students to connect with doctors <br /> at the Durban UniStudent Medical Centre
+
+            </p>
+            <div>
+                <button type="button"><span></span> @Html.ActionLink("Create Your Account","Create","PatientDetails")</button>
+                <button type="button"><span></span> Log In </button>
+            </div>
+        </div>
+
+    </div>
+
+
+</body>
+</html>
+

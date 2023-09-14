@@ -1,0 +1,127 @@
+﻿* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    Height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.53),rgba(0, 0, 0, 0.53)),url("Doctors.jpg");
+    
+    background-size: 300% 300%;
+    animation: color 12s ease-in-out infinite
+}
+
+@keyframes color {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.container {
+    max-width: 800px;
+    width: 200%;
+    background: #fff;
+    padding: 25px 30px;
+    border-radius: 5px;
+}
+
+    .container .title {
+        font-size: 25px;
+        font-weight: 500;
+        position: relative;
+    }
+
+        .container .title::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 3px;
+            width: 30px;
+            background: linear-gradient(45deg,rgba(125, 156, 99, 0.52),rgba(0, 63, 13, 0.53),rgba(73, 119, 209, 0.42),rgba(44, 177, 218, 0.39));
+        }
+
+    .container form .user-details {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 20px 0 12px 0;
+    }
+
+form .user-details .input-box {
+    margin-bottom: 15px;
+    width: calc(100%/2-20px);
+}
+
+.user-details .input-box .Details {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.user-details .input-box input {
+    height: 45px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    font-size: 16px;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+}
+
+    .user-details .input-box input:focus,
+    .user-details .input-box input:valid {
+        border-color: aquamarine;
+    }
+
+form .gender-details .gender-title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+form .gender-details .category {
+    display: flex;
+    width: 80%;
+    margin: 14px 0;
+    justify-content: space-between;
+}
+
+form.button {
+    height: 45px;
+    margin: 45px 0;
+}
+
+    form .button input {
+        height: 100%;
+        width: 100%;
+        outline: none;
+        color: #fff;
+        border: none;
+        font-size: 18px;
+        font-weight: 500;
+        border-radius: 5px;
+        letter-spacing: 1px;
+        background: linear-gradient(45deg,rgba(125, 156, 99, 0.52),rgba(0, 63, 13, 0.53),rgba(73, 119, 209, 0.42),rgba(44, 177, 218, 0.39))
+    }
+
+        form .button input:hover {
+            background: linear-gradient(-45deg,rgba(125, 156, 99, 0.52),rgba(0, 63, 13, 0.53),rgba(73, 119, 209, 0.42),rgba(44, 177, 218, 0.39))
+        }
