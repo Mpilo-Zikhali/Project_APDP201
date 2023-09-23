@@ -84,3 +84,89 @@ C:\Users\Mpilo Zikhali\Documents\Asp.net Project\Medical Centre.proj\Medical Cen
 C:\Users\Mpilo Zikhali\Documents\Asp.net Project\Medical Centre.proj\Medical Centre.proj\obj\Debug\Medical_Centre.proj.Migrations.InitialCreate.resources
 C:\Users\Mpilo Zikhali\Documents\Asp.net Project\Medical Centre.proj\Medical Centre.proj\obj\Debug\Medical Centre.proj.csproj.GenerateResource.cache
 C:\Users\Mpilo Zikhali\Documents\Asp.net Project\Medical Centre.proj\Medical Centre.proj\obj\Debug\Medical_Centre.proj.Migrations.AddGender.resources
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Medical Centre.proj.dll.config
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Medical Centre.proj.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Medical Centre.proj.pdb
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\csc.exe
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\csc.exe.config
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\csc.rsp
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\csi.exe
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\csi.exe.config
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\csi.rsp
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.AppContext.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Console.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Net.Http.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\vbc.exe
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\vbc.exe.config
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\vbc.rsp
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Antlr3.Runtime.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\EntityFramework.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\EntityFramework.SqlServer.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Newtonsoft.Json.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Helpers.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Mvc.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Optimization.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Razor.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.WebPages.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\WebGrease.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\EntityFramework.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\EntityFramework.SqlServer.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Helpers.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Mvc.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Optimization.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.Razor.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.WebPages.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Newtonsoft.Json.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Antlr3.Runtime.pdb
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical Centre.proj.csproj.AssemblyReference.cache
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical_Centre.proj.Migrations.InitialCreate.resources
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical_Centre.proj.Migrations.AddGender.resources
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical Centre.proj.csproj.GenerateResource.cache
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical Centre.proj.csproj.CoreCompileInputs.cache
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical Centre.proj.csproj.CopyComplete
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical Centre.proj.dll
+C:\Users\Mpilo Zikhali\Documents\Project Repository\Project_APDP201\Medical Centre.proj\obj\Debug\Medical Centre.proj.pdb

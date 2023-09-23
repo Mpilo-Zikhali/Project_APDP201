@@ -126,6 +126,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ForgotPasswordController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MedicalCentreController.cs" />
     <Compile Include="Controllers\PatientDetailsController.cs" />
@@ -193,6 +194,16 @@
     <Content Include="Views\PatientDetails\Edit.cshtml" />
     <Content Include="Views\PatientDetails\Index.cshtml" />
     <Content Include="Views\PatientDetails\login.cshtml" />
+    <Content Include="Views\PatientDetails1\Create.cshtml" />
+    <Content Include="Views\PatientDetails1\Delete.cshtml" />
+    <Content Include="Views\PatientDetails1\Details.cshtml" />
+    <Content Include="Views\PatientDetails1\Edit.cshtml" />
+    <Content Include="Views\PatientDetails1\Index.cshtml" />
+    <Content Include="Views\ForgotPassword\Create.cshtml" />
+    <Content Include="Views\ForgotPassword\Delete.cshtml" />
+    <Content Include="Views\ForgotPassword\Details.cshtml" />
+    <Content Include="Views\ForgotPassword\Edit.cshtml" />
+    <Content Include="Views\ForgotPassword\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

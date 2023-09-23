@@ -8,6 +8,7 @@ namespace Medical_Centre.proj.Models
 {
     public class MedicalCentreContext : DbContext
     {
+
         public MedicalCentreContext() : base("Medical Centre")
         {
 
